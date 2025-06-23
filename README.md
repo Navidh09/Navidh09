@@ -1,22 +1,21 @@
-<a target="_blank" href="https://my-portfolio-gilt-nine-94.vercel.app/">
-<img src="assets/navid_banner.svg" />
-</a>
 <!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=200&section=header&text=MD%20Navid%20Hasan&fontSize=40&fontColor=ffffff" alt="banner" />
-</p>
+<a target="_blank" href="https://my-portfolio-gilt-nine-94.vercel.app/">
+<img src="/assets/navid.svg" />
+</a>
 
 # 👋 Hi, I'm MD Navid Hasan
 
-### 💻 MERN Stack Web Developer | React • Node.js • MongoDB • Express  
-🚀 Building modern, responsive, and scalable web applications  
+### 💻 MERN Stack Web Developer | React • Node.js • MongoDB • Express
+
+🚀 Building modern, responsive, and scalable web applications
 
 ---
 
 ### 🛠 Tech Stack
+
 - **Frontend:** React.js, Next.js, Tailwind CSS, DaisyUI
 - **Backend:** Node.js, Express.js, MongoDB
-- **Tools:** Git, GitHub, VS Code, Postman, Vercel
+- **Tools:** Git, GitHub, VS Code, Vercel
 
 ---
 
@@ -28,7 +27,6 @@
 
 ---
 
-
 ### ✨ Fun Fact
-> I love turning ideas into interactive, user-friendly websites.
 
+> I love turning ideas into interactive, user-friendly websites.
