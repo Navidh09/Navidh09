@@ -2,7 +2,7 @@
 <a target="_blank" href="https://my-portfolio-gilt-nine-94.vercel.app/">
 <img src="/assets/navid.svg" />
 </a>
-👋 Hi, I'm MD Navid Hasan
+# 👋 Hi, I'm MD Navid Hasan
 
 ### 💻 MERN Stack Web Developer | React • Node.js • MongoDB • Express
 
